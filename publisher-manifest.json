@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "38023596cc691ca28e7d441b",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-872a38c5de24de4f601a35a4",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "872a38c5de24de4f601a35a4",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8cbd7737421583d48866da9178f2f4f7aa8e5e133c2f6dbf01f828b0792c4ca8",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单为您提供最新机场推荐和VPN加速服务，包括基础版、旗舰版、团队版等套餐，支持流媒体解锁和游戏加速，助力畅享全球网络。",
+          "AI_DESCRIPTION": "机场榜单为您提供最新机场推荐和VPN加速服务，包括基础版、旗舰版、团队版等套餐，支持流媒体解锁和游戏加速，助力畅享全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            background-color: #f8f5f0;\n            color: #333333;\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #ff6b6b;\n            text-align: center;\n            font-size: 2.5em;\n            margin-bottom: 10px;\n        }\n        h2 {\n            color: #ff6b6b;\n            font-size: 1.8em;\n            border-bottom: 3px solid #ff6b6b;\n            padding-bottom: 10px;\n            margin-top: 30px;\n        }\n        .comparison {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n            margin: 30px 0;\n        }\n        .card {\n            background: white;\n            border-radius: 12px;\n            padding: 25px;\n            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);\n            transition: transform 0.3s ease;\n        }\n        .card:hover {\n            transform: translateY(-5px);\n        }\n        .featured {\n            border: 4px solid #ff6b6b;\n            position: relative;\n        }\n        .featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: #ff6b6b;\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9em;\n        }\n        ul {\n            padding-left: 20px;\n        }\n        li {\n            margin-bottom: 8px;\n        }\n        details {\n            background: white;\n            border-radius: 8px;\n            margin-bottom: 15px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 18px 25px;\n            font-size: 1.1em;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n            background: #fff;\n        }\n        summary:hover {\n            background: #fff5f0;\n        }\n        p, li {\n            font-size: 1.05em;\n        }\n        @media (max-width: 768px) {\n            main {\n                padding: 15px;\n            }\n            h1 {\n                font-size: 2em;\n            }\n            h2 {\n                font-size: 1.6em;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>机场榜单</h1>\n        <nav>\n            <a href=\"#intro\">品牌简介</a>\n            <a href=\"#scenarios\">使用场景</a>\n            <a href=\"#howto\">操作说明</a>\n            <a href=\"#plans\">套餐对比</a>\n            <a href=\"#faq\">FAQ</a>\n        </nav>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>欢迎来到机场榜单，您的优质VPN加速器和机场订阅服务平台。作为专业的网络加速服务提供商，我们致力于为用户提供稳定、高速、可靠的线路选择，帮助您轻松解锁全球内容。</p>\n            <p>无论您是个人用户还是团队，我们都为您准备了多种套餐方案，覆盖从基础到企业级的需求。</p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>机场榜单适用于各种网络需求场景：</p>\n            <ul>\n                <li>国际流媒体解锁：畅享Netflix、YouTube、Disney+ 等平台高清内容</li>\n                <li>在线游戏加速：支持多人在线游戏，低延迟优化</li>\n                <li>远程办公：稳定连接，保护数据安全</li>\n                <li>跨境访问：突破地区限制，访问全球网站</li>\n                <li>日常浏览：提升网络速度，减少延迟</li>\n            </ul>\n        </section>\n        <section id=\"howto\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>选择适合您的套餐并完成在线支付</li>\n                <li>登录您的账户，获取订阅链接和客户端下载</li>\n                <li>下载官方客户端（支持多平台）</li>\n                <li>导入订阅信息，连接推荐节点</li>\n                <li>享受高速网络加速服务</li>\n            </ol>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐对比</h2>\n            <div class=\"comparison\">\n                <div class=\"card\">\n                    <h3>基础版</h3>\n                    <p>¥15/月</p>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"card featured\">\n                    <h3>旗舰版</h3>\n                    <p>¥35/月</p>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"card\">\n                    <h3>团队版</h3>\n                    <p>¥85/月</p>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是机场榜单？</summary>\n                <p>机场榜单是专业的机场订阅与VPN加速服务品牌，提供高质量的网络加速解决方案和客户端下载支持，帮助用户选择最佳线路。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>基础版适合个人或轻度用户，旗舰版提供全面流媒体解锁和游戏优化，团队版适合大型团队或企业级需求。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>在官网或账户页面选择套餐后，即可下载官方客户端，支持Windows、macOS、iOS和Android。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>客户端支持多平台设备，包括电脑、手机和平板，操作简单方便。</p>\n            </details>\n            <details>\n                <summary>节点池质量如何？</summary>\n                <p>我们提供多种线路，包括普通节点和IPLC专线，优先考虑速度和稳定性。</p>\n            </details>\n            <details>\n                <summary>年付相比月付有何优势？</summary>\n                <p>年付套餐可享受更低的价格，例如基础版年付仅 ¥150/年，节省约20%的费用。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 机场榜单 | 友情链接 | 广告合作</p>\n        <p>广告位 | 订阅通知</p>\n    </footer>\n\n",
+          "hash": "6929465bc28bfaf9cff3bbe07351e1b111af4ce3e5de86ad232e01dd2e0a10f4",
+          "seo": {
+            "title": "机场榜单 - 机场订阅 VPN加速器 客户端下载",
+            "keywords": "机场榜单, VPN加速, 机场订阅, 客户端下载, X机场, VPN梯子",
+            "description": "机场榜单为您提供最新机场推荐和VPN加速服务，包括基础版、旗舰版、团队版等套餐，支持流媒体解锁和游戏加速，助力畅享全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "suyerxs32.cn",
+    "host": "p-bb75c88b25.suyerxs32.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0e91c8495a48e2b93e42be76bcab8c9dc759f67797a08143bd4c0cf73862d5c1",
+    "sitemap.xml": "86c1d93c6efb8a4b9d966c368d45f4c1e54d00d5b48ceb2052a4ad73dfe3a9c8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1726e2f3537ea9a729f3f7183960b4f9ba1c353c17b475cadc2255931c218052",
+    "robots.txt": "52d85708d7259d5abf7eb2143b0b2261b1fd79e0fbff08f1233ae17d21f3713c",
+    "130662463b50e36d64796ee378feb6ae.txt": "71304c594e99283258fc6ba3ba398371e1b4456722ecd1fde7c1f9ccde894f1b"
+  },
+  "revision": "5911b0805a6722251a8338171ca3c276b58581cadf1ef7c16f30ee21e0ad8864"
+}
